@@ -1,5 +1,6 @@
 public class Test {
     public static void main(String[] args) {
-        Harmonik.calculate(3);
+        //Harmonik.calculate(3);
+        //MaxMin.find(5);
     }
 }
