@@ -3,6 +3,7 @@ public class Test {
         //Harmonik.calculate(3);
         //MaxMin.find(5);
         //B.printB();
-        Even.find();
+        //Even.find();
+        //Sort.sort();
     }
 }
